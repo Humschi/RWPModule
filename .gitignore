@@ -1,0 +1,4 @@
+.theos/
+.vs/
+.DS_STORE
+Packages/

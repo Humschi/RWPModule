@@ -1,0 +1,13 @@
+Package: com.studentsoftware.rwpmodule
+Name: RWPModule
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Control your Whitepoint with ease!
+ Add RWP to your Control Center
+ Tested on iOS 12.4 and 13.2.2. Should be compatible from 10.1.1 to 13.2.2.
+ No options to configure.
+ I feeled free to take the icons from XBRecudeWhiteModule!
+Maintainer: Humschi@hotmail.de
+Author: Humschi
+Section: Control Center (Modules)
